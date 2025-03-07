@@ -8,4 +8,4 @@ spec:
     spec:
       containers:
       - name: webserver-simple
-        image: https://github.com/10JoeCook/gitops-cert-level-2-examples
+        image: https://github.com/10joecook/gitops-cert-level-2-examples
